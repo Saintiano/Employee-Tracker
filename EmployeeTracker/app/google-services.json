@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "662968966744",
+    "firebase_url": "https://employee-tracker-cfec9.firebaseio.com",
+    "project_id": "employee-tracker-cfec9",
+    "storage_bucket": "employee-tracker-cfec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662968966744:android:adc14b013ed43850",
+        "android_client_info": {
+          "package_name": "com.example.saint.employeetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662968966744-q1oana278haf498e8u6nm45o2sutko4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saint.employeetracker",
+            "certificate_hash": "bc4b400d0614a4fe48105531ccd1097da5071844"
+          }
+        },
+        {
+          "client_id": "662968966744-kuro1ad8oiqn8o7pe7sass6vhiltigv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCybiBTNCeyjvmnCAjTj4dYOcJDYArOsC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662968966744-kuro1ad8oiqn8o7pe7sass6vhiltigv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
